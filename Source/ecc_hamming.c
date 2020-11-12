@@ -44,8 +44,8 @@
 
 #define    MICRIUM_SOURCE
 #define    ECC_HAMMING_MODULE
-#include  <ecc_hamming.h>
-#include  <crc_util.h>
+#include  "ecc_hamming.h"
+#include  "crc_util.h"
 
 
 /*

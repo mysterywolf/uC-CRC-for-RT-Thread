@@ -33,7 +33,7 @@
 
 #define    MICRIUM_SOURCE
 #define    EDC_CRC_MODULE
-#include  <edc_crc.h>
+#include  "edc_crc.h"
 
 
 /*

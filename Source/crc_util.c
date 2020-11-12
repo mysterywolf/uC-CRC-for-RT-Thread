@@ -32,7 +32,7 @@
 */
 
 #define    MICRIUM_SOURCE
-#include <crc_util.h>
+#include "crc_util.h"
 
 
 /*
