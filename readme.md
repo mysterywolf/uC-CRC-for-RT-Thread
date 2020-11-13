@@ -11,5 +11,3 @@ ERROR DETECTING CODE (EDC) & ERROR CORRECTING CODE (ECC) CALCULATION UTILITIES
 - [RT-Thread的uCOS-III兼容层软件包](https://github.com/mysterywolf/RT-Thread-wrapper-of-uCOS-III)
 
 
-
-### For the complete documentation, visit https://doc.micrium.com/display/ucos/
