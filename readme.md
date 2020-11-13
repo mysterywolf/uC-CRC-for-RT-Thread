@@ -1,5 +1,7 @@
 # uC/CRC for RT-Thread
 
+https://github.com/SiliconLabs/uC-CRC
+
 ERROR DETECTING CODE (EDC) & ERROR CORRECTING CODE (ECC) CALCULATION UTILITIES
 
 
