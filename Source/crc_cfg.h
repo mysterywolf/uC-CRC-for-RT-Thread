@@ -47,45 +47,18 @@
 *********************************************************************************************************
 */
 
-#ifndef  EDC_CRC_CFG_ERR_ARG_CHK_EXT_EN
 #define  EDC_CRC_CFG_ERR_ARG_CHK_EXT_EN          DEF_ENABLED    /* See Note #1.                                         */
-#endif
 
-#ifndef  EDC_CRC_CFG_OPTIMIZE_ASM_EN
 #define  EDC_CRC_CFG_OPTIMIZE_ASM_EN             DEF_DISABLED   /* See Note #2.                                         */
-#endif
 
-#ifndef  EDC_CRC_CFG_CRC16_1021_EN
 #define  EDC_CRC_CFG_CRC16_1021_EN               DEF_ENABLED    /* See Note #3.                                         */
-#endif
-
-#ifndef  EDC_CRC_CFG_CRC16_8005_EN
 #define  EDC_CRC_CFG_CRC16_8005_EN               DEF_ENABLED
-#endif
-
-#ifndef  EDC_CRC_CFG_CRC16_8048_EN
 #define  EDC_CRC_CFG_CRC16_8048_EN               DEF_ENABLED
-#endif
-
-#ifndef  EDC_CRC_CFG_CRC32_EN
 #define  EDC_CRC_CFG_CRC32_EN                    DEF_ENABLED
-#endif
-
-#ifndef  EDC_CRC_CFG_CRC16_1021_REF_EN
 #define  EDC_CRC_CFG_CRC16_1021_REF_EN           DEF_ENABLED
-#endif
-
-#ifndef  EDC_CRC_CFG_CRC16_8005_REF_EN
 #define  EDC_CRC_CFG_CRC16_8005_REF_EN           DEF_ENABLED
-#endif
-
-#ifndef  EDC_CRC_CFG_CRC16_8048_REF_EN
 #define  EDC_CRC_CFG_CRC16_8048_REF_EN           DEF_ENABLED
-#endif
-
-#ifndef  EDC_CRC_CFG_CRC32_REF_EN
 #define  EDC_CRC_CFG_CRC32_REF_EN                DEF_ENABLED
-#endif
 
 /*
 *********************************************************************************************************
@@ -97,8 +70,6 @@
 *********************************************************************************************************
 */
 
-#ifndef  ECC_HAMMING_CFG_ARG_CHK_EXT_EN
 #define  ECC_HAMMING_CFG_ARG_CHK_EXT_EN          DEF_ENABLED    /* See Note #1.                                         */
-#endif
 
 #endif
